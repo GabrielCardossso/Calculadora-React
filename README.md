@@ -1,10 +1,6 @@
 <div align="center">
 
-# 🧮 Calculadora React
-
-### ⚛️ Calculadora moderna desenvolvida com React.js
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=180&section=header&text=React%20Calculator&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=180&section=header&text=Calculadora%React&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
