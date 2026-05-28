@@ -130,10 +130,6 @@ npm start
 
 <div align="center">
 
-<img src="./assets/previewCalculadora.png" width="700"/>
-
-<br><br>
-
 <img src="./assets/VideoPreview.gif" width="700"/>
 
 </div>
