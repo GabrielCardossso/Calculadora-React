@@ -85,7 +85,7 @@ Contém toda a lógica principal da calculadora.
 ## Clone o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/GabrielCardossso/Calculadora-React
 ```
 
 ## Entre na pasta do projeto
